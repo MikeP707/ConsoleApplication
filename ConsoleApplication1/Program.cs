@@ -10,6 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            int i = 0;
+            i++;
+            Console.WriteLine(i.ToString());
         }
     }
 }

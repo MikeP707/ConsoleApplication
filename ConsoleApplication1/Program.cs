@@ -16,11 +16,11 @@ namespace ConsoleApplication1
 
             int j = 0;
             j++;
-            WriteLine(j.ToString());
+            Console.WriteLine(j.ToString());
 
             int k = 0;
             k++;
-            WriteLine(k.ToString());
+            Console.WriteLine(k.ToString());
             Console.WriteLine("End of the program");
         }
     }

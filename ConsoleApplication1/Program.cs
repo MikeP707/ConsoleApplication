@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             int i = 0;
             i++;
             Console.WriteLine("Value of variable i: "+ i.ToString());
+
+            Console.WriteLine("End of the program");
         }
     }
 }

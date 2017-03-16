@@ -17,6 +17,10 @@ namespace ConsoleApplication1
             int j = 0;
             j++;
             WriteLine(j.ToString());
+
+            int k = 0;
+            k++;
+            WriteLine(k.ToString());
         }
     }
 }

@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             int i = 0;
             i++;
-            Console.WriteLine(i.ToString());
+            Console.WriteLine("Value of variable i: "+ i.ToString());
         }
     }
 }

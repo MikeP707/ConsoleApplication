@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Console;
 
 namespace ConsoleApplication1
 {
@@ -12,9 +12,11 @@ namespace ConsoleApplication1
         {
             int i = 0;
             i++;
-            Console.WriteLine("Value of variable i: "+ i.ToString());
+            WriteLine(i.ToString());
 
-            Console.WriteLine("End of the program");
+            int j = 0;
+            j++;
+            WriteLine(j.ToString());
         }
     }
 }

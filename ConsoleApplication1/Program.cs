@@ -21,6 +21,10 @@ namespace ConsoleApplication1
             int k = 0;
             k++;
             Console.WriteLine(k.ToString());
+
+            int l = 0;
+            l++;
+            Console.WriteLine(l.ToString());
             Console.WriteLine("End of the program");
         }
     }
